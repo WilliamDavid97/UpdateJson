@@ -2,11 +2,10 @@
     "Code": 0,
     "Msg": "",
     "UpdateStatus": 2,
-    "VersionCode": 2,
+    "VersionCode": 3,
     "VersionName": "2.0.11",
     "UploadTime": "2018-07-10 17:28:41",
     "ModifyContent": "Update Football App",
     "DownloadUrl": "https://docs-chail.sgp1.digitaloceanspaces.com/sports899/apk/sports899.apk",
-    "ApkSize": 4096,
-    "ApkMd5": "5C43CF29C3925F2347A5855AB391F6B9"
+    "ApkSize": 49152
 }
