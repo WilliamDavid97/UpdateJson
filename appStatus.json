@@ -1,3 +1,5 @@
 {
-    "app_status": true
+    "app_status": false,
+    "message": "Server Maintenance ...",
+    "time": 30
 }
