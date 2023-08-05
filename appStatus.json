@@ -1,5 +1,5 @@
 {
-    "app_status": false,
-    "message": "Server Maintenance ... \n 12:30 PM ပြန်လည်အသုံးပြုနိုင်းပါပြီ ခင်ဗျာ့",
+    "app_status": true,
+    "message": "Server Maintenance ... \n Estimate time : 12:30 PM ",
     "time": 30
 }
