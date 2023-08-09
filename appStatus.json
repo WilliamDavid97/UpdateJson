@@ -1,5 +1,6 @@
 {
     "app_status": true,
     "message": "Server Maintenance ... \n Estimate time : 12:30 PM ",
+    "currentDomain": true,
     "time": 30
 }
